@@ -1,3 +1,5 @@
+import sys
+sys.path.append("C:\\Users\\Ventus\\AppData\\Roaming\\Python\\Python310\\site-packages\\xformers")
 import os
 import sys
 import time
